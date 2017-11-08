@@ -4,6 +4,7 @@ let mapleader=" "
 map <leader>s :source ~/.vimrc<CR>
 set hidden
 set history=100
+set foldcolumn=3
 
 set nowrap
 set smartindent
